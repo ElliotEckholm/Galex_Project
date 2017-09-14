@@ -1,0 +1,1 @@
+HD, RA, DEC, Band, Far UV Calibrated Magnitude, Far UV Error, Apparent V Magnitude, B-V Color Index, Distance, X-Ray Luminosity, Bolometric Correction
