@@ -4,4 +4,4 @@ This code gathers and analyizes data taken from the GALEX and ROSAT Catalogues o
 
 2. Mason Hargrave: Department of Astronomy & Astrophysics, University of California, Santa Cruz, CA 95064, USA
 
-3. Eliot Eckholm: Department of Astronomy & Astrophysics, University of California, Santa Cruz, CA 95064, USA
+3. Elliot Eckholm: Department of Astronomy & Astrophysics, University of California, Santa Cruz, CA 95064, USA
